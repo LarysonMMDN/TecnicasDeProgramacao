@@ -1,5 +1,5 @@
-TécnicasDeProgramação
-Repositório para a atividade da faculdade de Engenharia de Software
+TécnicasDeProgramação;
+Repositório para a atividade do curso de Engenharia de Software
 
-Matéria: Técnicas De Programação 
+Matéria: Técnicas De Programação
 Professor: Rômulo Delmontes
